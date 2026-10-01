@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">The Daily Drip favicon</title>
+  <desc id="desc">A coffee cup on a warm brown background</desc>
+  <rect width="64" height="64" rx="14" fill="#171313"/>
+  <path d="M17 25h27v12.5C44 45 39 50 30.5 50S17 45 17 37.5V25Z" fill="#d4b896"/>
+  <path d="M44 29h3.5a7.5 7.5 0 0 1 0 15H44v-5h3.5a2.5 2.5 0 0 0 0-5H44v-5Z" fill="#d4b896"/>
+  <path d="M22 18c0-3 3-3 3-6M30 18c0-3 3-3 3-6M38 18c0-3 3-3 3-6" fill="none" stroke="#f1dfc6" stroke-linecap="round" stroke-width="3"/>
+  <path d="M14 53h34" fill="none" stroke="#d4b896" stroke-linecap="round" stroke-width="3"/>
+</svg>
